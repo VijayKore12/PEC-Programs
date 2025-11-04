@@ -28,7 +28,6 @@ print("Power (A^B):", np.power(a, 2))
 print("\n Advanced Operations")
 print("Maximum of A and B:", np.maximum(a, b))
 print("Minimum of A and B:", np.minimum(a, b))
-print("Modulus (A%B):", np.mod(a, b))
 
 # Splitting fractional and integer parts
 c = np.array([1.2, 2.5, 3.8])
