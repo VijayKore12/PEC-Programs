@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv(r"C:\Users\sarvesh mahadik\Desktop\P.E. 5th sem\used_car_listings (version 1).xlsb.csv")
+df=pd.read_csv(r"C:\Users\vijay kore\Desktop\P.E. 5th sem\used_car_listings (version 1).xlsb.csv")
 
 # Line plot
 plt.figure(figsize=(8,6))
