@@ -17,7 +17,6 @@ print("Array B:", b)
 print("\n Unary Operations")
 print("Square Root of A:", np.sqrt(a))
 print("Exponential of A:", np.exp(a))
-print("Sine of A:", np.sin(a))
 
 print("\n Binary Operations ")
 print("Addition (A+B):", np.add(a, b))
