@@ -1,6 +1,6 @@
 import pandas as pd
 
-df=pd.read_csv(r"C:\Users\sarvesh mahadik\Desktop\P.E. 5th sem\used_car_listings (version 1).xlsb.csv")
+df=pd.read_csv(r"C:\Users\vijay kore\Desktop\P.E. 5th sem\used_car_listings (version 1).xlsb.csv")
 
 # Display first 5 rows
 print("First 5 rows:")
